@@ -12,7 +12,7 @@ Atividade feita no curso da Reprograma para exercitar React JS <a href="https://
 
 **Desafio da semana**
 
-O Projetinho será: "Meu diário da reprograma" :writing_hand: :woman_technologist: :open_book:
+O Projetinho será: <a href="https://marianapequeno.github.io/atividademeudiarioreprograma/">Meu diário da Reprograma</a> :point_left: :writing_hand: :woman_technologist: :open_book:
 * Crie um projeto react com vite
 * Apagar as informações default
 * Uma sessão se apresentando
