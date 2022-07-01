@@ -51,7 +51,7 @@ function Content() {
       </section>
 
       <section className="outros-aprendizados" style={{marginTop: 60, marginRight: "auto", marginLeft: "auto", maxWidth: 1000}}>
-          <Text>E outras dezenas de aprendizados! A reprograma não ensina somente habilidades técnicas, é uma experiência de aprendizado constante em cada aula, cada interação com as outras aulas, mentoras, professoras e facilitadoras.</Text>
+          <Text>E outras dezenas de aprendizados! A reprograma não ensina somente habilidades técnicas, é uma experiência de aprendizado constante em cada aula, cada interação com as outras alunas, mentoras, professoras e facilitadoras.</Text>
       </section>
     </main>
   )
