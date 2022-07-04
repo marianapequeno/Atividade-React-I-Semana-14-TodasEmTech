@@ -11,6 +11,10 @@ body{
   text-decoration: none;
 }
 
+.image{
+  max-width: 100%;
+}
+
 /*HEADER*/
 .header{
   background-color: #7e459b;
@@ -75,6 +79,7 @@ body{
 
 .card{
   max-width: 400px;
+  padding: 15px;
 }
 
 .card .title-2{
@@ -84,10 +89,6 @@ body{
 
 .card .text{
   margin-bottom: 10px;
-}
-
-.card .image{
-  max-width: 400px;
 }
 
 /*section-outros-aprendizados*/
