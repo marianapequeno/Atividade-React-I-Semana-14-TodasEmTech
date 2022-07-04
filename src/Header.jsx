@@ -1,8 +1,8 @@
 
 function Header(){
   return(
-    <header style={{backgroundColor: "#7e459b", padding: 15, marginBottom: 50}}>
-      <h1 style={{margin: 0, textAlign: "center", color: "white"}}>Meu diário da reprograma</h1>
+    <header className="header">
+      <h1 className="title-1">Meu diário da reprograma</h1>
     </header>
   )
 }

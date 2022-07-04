@@ -1,8 +1,6 @@
-import React from 'react'
-
-export const Link = (props) => {
+function Link(props) {
   return (
-    <a href={props.href} target={"_blank"} style={{textDecoration: "none", color: props.cor}}>{props.children}</a>
+    <a className="link" href={props.href} target="_blank">{props.children}</a>
   )
 }
 
