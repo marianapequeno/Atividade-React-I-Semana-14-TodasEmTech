@@ -1,4 +1,3 @@
-import './global.css'
 import Apresentacao from './Apresentacao'
 import Title from "./Title"
 import Text from "./Text"
