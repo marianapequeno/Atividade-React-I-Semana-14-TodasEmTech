@@ -23,7 +23,7 @@ Atividade feita no curso da Reprograma para exercitar React JS <a href="https://
 O Projetinho será: <a href="https://meudiarioreprograma.netlify.app//">Meu diário da Reprograma</a> :point_left: :writing_hand: :woman_technologist: :open_book:
 * Crie um projeto react com vite
 * Apagar as informações default
-* Uma sessão se apresentando
+* Uma seção se apresentando
 * Criar um componente Title que recebe o título por props ou children
 * Criar um componente Text que recebe o paragrafo por props ou children
 * Criar um componente Image que recebe o src por props ou children
